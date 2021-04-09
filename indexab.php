@@ -30,6 +30,11 @@ $index = 1;
       <li class="nav-item dropdown">
         <a class="nav-link" href="indexab.php">Absen</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="indexmk.php">Matakuliah</a>
+      </li> <li class="nav-item">
+        <a class="nav-link" href="indexktk.php">Kontrak</a>
+      </li>
     </ul>
     </form>
   </div>
